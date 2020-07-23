@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="" />
+    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +126,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1595438714486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1595438714486" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595352461872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
